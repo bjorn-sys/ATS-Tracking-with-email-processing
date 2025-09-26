@@ -75,4 +75,4 @@ If you're technical and curious, I've shared some insights on the architecture i
 
 #Python #Streamlit #NLP #Automation #BuildingInPublic #RecruitmentTech #HRTech #SoftwareDevelopment #Project
 
- Network URL: http://10.203.161.243:8501
+ Network URL: [http://10.203.161.243:8501](https://ats-tracking-with-email-processing.streamlit.app/)
